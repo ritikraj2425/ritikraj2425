@@ -1,15 +1,22 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Ritik+Raj;AI+Engineer+%7C+Systems+Builder;Interested+in+AI+Infrastructure+%26+Distributed+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Ritik+Raj;AI+Engineer+%7C+Systems+Builder;AI+Infrastructure+%7C+Distributed+Systems;Build+for+Scale+%2C+Not+for+Demo" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20Infrastructure-0A192F?style=flat&logo=icloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Interest-Distributed%20Systems-0A192F?style=flat&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mindset-Systems%20Thinking-0A192F?style=flat&logo=github&logoColor=white"/>
 </p>
 
 ---
 
 ```bash
 > whoami
+
 Ritik Raj
-AI-focused engineering student.
-Builder of production-grade systems.
-Interested in AI infrastructure, distributed systems, and scalable architectures.
+AI-focused engineering student
+Building production systems under real constraints
+Interested in AI infra, distributed systems, and scalable architectures
 ```
 
 ---
@@ -19,10 +26,12 @@ Interested in AI infrastructure, distributed systems, and scalable architectures
 ### Seedite  
 https://www.seedite.in/
 
-Built and launched a full-stack learning platform with video streaming, analytics, and distributed content delivery.  
-Designed backend architecture, mock engine, and admin systems.
+End-to-end architecture and implementation of a production learning platform.  
+Designed backend services, mock engine, analytics pipeline, and cost-optimized video streaming stack.
 
-**Stack:** Next.js, Node.js, MongoDB, AWS, CDN
+Reduced infra cost by >50% through CDN and storage re-architecture.
+
+Stack: Next.js · Node.js · MongoDB · AWS · Bunny CDN
 
 ---
 
@@ -30,49 +39,51 @@ Designed backend architecture, mock engine, and admin systems.
 https://mergeflow.vercel.app/  
 https://github.com/ritikraj2425/mr-management-backend
 
-Designed a workflow automation tool to reduce PR/MR management overhead in collaborative environments.  
-Focused on backend structure and system clarity.
+Workflow automation tool to streamline MR/PR management.  
+Focused on backend structure, clean API contracts, and system clarity.
 
-**Stack:** Next.js, Express, MongoDB
+Stack: Next.js · Express · MongoDB
 
 ---
 
 ### HHL Quantum Algorithm  
 https://github.com/ritikraj2425/HHL_Algorithm_Quantum
 
-Implemented and studied the Harrow–Hassidim–Lloyd algorithm for solving linear systems.  
-Explored quantum circuit modeling and computational complexity.
+Implementation and study of the Harrow–Hassidim–Lloyd quantum algorithm.  
+Explored circuit modeling, linear system solving, and computational limits.
 
 ---
 
 ## Areas of Interest
 
-- AI Infrastructure  
-- Distributed Systems  
-- Operating Systems  
-- Systems Design  
-- Applied Machine Learning  
+AI Infrastructure  
+Distributed Systems  
+Operating Systems Internals  
+System Design  
+Applied Machine Learning  
 
 ---
 
 ## Technical Stack
 
 **Languages**  
-Python, JavaScript  
+Python · JavaScript  
 
 **Core CS**  
-Data Structures, Computer Networks, Computer Architecture  
+Data Structures · Computer Networks · Computer Architecture · Operating Systems  
 
-**Web & Systems**  
-Next.js, Node.js, Express, MongoDB, AWS  
+**Systems & Web**  
+Next.js · Node.js · Express · MongoDB · AWS  
 
 ---
 
-## Links
+## Connect
 
 LinkedIn  
 https://www.linkedin.com/in/ritik-raj-0a098228a/
 
 ---
 
-I build systems with long-term leverage in mind.
+<p align="center">
+  <i>Build systems that survive scale.</i>
+</p>
