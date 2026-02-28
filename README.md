@@ -82,10 +82,5 @@ Explored quantum circuit modelling and computational complexity.
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="600" />
-</p>
-
-<p align="center">
   <i>I build systems with long‑term leverage in mind.</i>
 </p>
-```
