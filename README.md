@@ -1,86 +1,87 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Ritik+Raj;AI+Engineer+%26+Systems+Builder;AI+Infrastructure+%7C+Distributed+Systems" />
-</p>
+<div align="center">
+  <h1>Ritik Raj</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&pause=1000&color=8B949E&center=true&vCenter=true&width=400&lines=AI%2FML+%7C+Full-Stack+%7C+Systems;Building+things+that+work+in+production." alt="Typing text" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-building-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=00F7FF" />
-  <img src="https://img.shields.io/badge/focus-AI%20Infrastructure-00F7FF?style=for-the-badge&logo=robot&logoColor=white" />
-  <img src="https://img.shields.io/badge/zone-UTC%2B5%3A30-00F7FF?style=for-the-badge&logo=timepad&logoColor=white" />
-</p>
+<br>
 
----
+### Architecture & Production
 
-```bash
-> whoami
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Discrete Diffusion LM</h3>
+      <p>Trained a 17M-param transformer from scratch using a masked denoising objective. Features non-autoregressive inference.</p>
+      <p><code>PyTorch</code> • <code>Transformers</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Seedite (Co-Founder)</h3>
+      <p>Profitable EdTech platform with video streaming, mock test engine, and secure access control. 200+ active users. $0 marketing.</p>
+      <p><code>Next.js</code> • <code>Node</code> • <code>MongoDB</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>MergeFlow</h3>
+      <p>Workflow automation for pull requests with a cleanly decoupled backend architecture.</p>
+      <p><code>Express</code> • <code>MongoDB</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>HHL Quantum</h3>
+      <p>Implemented the Harrow–Hassidim–Lloyd quantum algorithm for solving linear systems.</p>
+      <p><code>Python</code> • <code>Qiskit</code></p>
+    </td>
+  </tr>
+</table>
 
-Ritik Raj
-AI-focused engineering student
-Building production systems under real constraints
-Interested in AI infra, distributed systems, and scalable architectures
-```
+<br>
 
----
+### Technical Profile
 
-## Selected Work
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>ML & AI</h4>
+      <code>PyTorch</code> <code>Hugging Face</code> <code>Gradio</code> <code>NumPy</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Backend & Systems</h4>
+      <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>MySQL</code> <code>AWS</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Frontend</h4>
+      <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Tooling & DevOps</h4>
+      <code>GitHub Actions</code> <code>Playwright</code> <code>OAuth 2.0</code> <code>Git</code>
+    </td>
+  </tr>
+</table>
 
-### Seedite  
-**https://www.seedite.in/**  
-Full‑stack learning platform with video streaming, analytics & distributed content delivery.  
-Designed backend architecture, mock engine & admin systems.
+<br>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![CDN](https://img.shields.io/badge/-CDN-FF9900?style=flat&logo=amazoncloudfront&logoColor=white)
+### Open Source Footprint
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikraj2425&theme=transparent&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&sideLabels=8b949e&dates=8b949e"  alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikraj2425&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&bg_color=00000000" alt="Top Languages" width="48%" />
+</div>
 
-### MergeFlow  
-[🔗 mergeflow.vercel.app](https://mergeflow.vercel.app/) • [📦 backend repo](https://github.com/ritikraj2425/mr-management-backend)
+<br>
 
-Workflow automation tool that reduces PR/MR management overhead. Focus on clean backend structure and system clarity.
+### Timeline
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+- **Physics Wallah** | Software Intern (Jan–Jul 2025)
+- **Hackathons** | Hacktoberfest '24, Tech-Sangam, Re-Imagine
+- **Content** | Tech & AI Creator on YouTube (250K+ views)
 
----
+<br>
 
-### HHL Quantum Algorithm  
-[📁 GitHub repo](https://github.com/ritikraj2425/HHL_Algorithm_Quantum)
-
-Implementation and study of the Harrow–Hassidim–Lloyd algorithm for solving linear systems.  
-Explored quantum circuit modelling and computational complexity.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat&logo=qiskit&logoColor=white)
-
----
-
-## Areas of Interest
-
-`AI Infrastructure` • `Distributed Systems` • `Operating Systems` • `Systems Design` • `Applied Machine Learning`
-
----
-
-## Technical Stack
-
-| Category       | Tools & Technologies                                                                                              |
-|----------------|-------------------------------------------------------------------------------------------------------------------|
-| **Languages**  | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Core CS**    | Data Structures, Computer Networks, Computer Architecture                                                         |
-| **Web & Systems** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) |
-
----
-
-## Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-raj-0a098228a/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritikraj2425)
-
----
-
-<p align="center">
-  <i>I build systems with long‑term leverage in mind.</i>
-</p>
+<div align="center">
+  <a href="https://in.linkedin.com/in/ritik-raj-0a098228a">LinkedIn</a> • 
+  <a href="https://www.youtube.com/@ritikraj_2425">YouTube</a> • 
+  <a href="mailto:rajritik2425@gmail.com">Email</a>
+</div>
