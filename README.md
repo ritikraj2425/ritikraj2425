@@ -31,7 +31,7 @@
   ',```''`'''''`'''''.:=''''`'=~'````````'````````,,:,,
   ,,```'``'''''`'''''',x`'```'-+'````````'````,``,,,:,,'    - Hackathons ---------------------
  ',,``````''''``''''''`x,''``';x'````````````,,,,,`::,,:    .2024: .................. Hacktoberfest
- ,,,,,,,``''''``''''''`X,`````:x`````````````,,,,`,:,,,:'   .2024: .................. Tech-Sangam
+ ,,,,,,,``''''``''''''`X,`````:x`````````````,,,,`,:,,,:'   .2025: .................. Tech-Sangam
 ',`,:,,,,```''```'``'',X```````X:'```````````,::`,::,,,,,   .2024: .................. Re-Imagine
 ```
 
@@ -48,7 +48,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>Seedite (Co-Founder)</h3>
-      <p>Profitable EdTech platform with video streaming, mock test engine, and secure access control. 200+ active users. $0 marketing.</p>
+      <p>Profitable EdTech platform with video streaming, mock test engine, and secure access control. 300+ active users. $0 marketing.</p>
       <p><code>Next.js</code> • <code>Node</code> • <code>MongoDB</code></p>
     </td>
   </tr>
