@@ -5,6 +5,38 @@
 
 <br>
 
+```
+                                                            ritikraj@github
+                      .'``::,.                              ----------------------------------
+                   :X##%88888%*+:                           .Role: .................. AI/ML, Full-Stack
+                 ,#@@888%%888@@@@#:                         .Focus: ................. LLM, Diffusion, Systems
+                :@@88888%%8@@@@@8@8.                        .Co-Founder: ............ Seedite (EdTech)
+               '%@8888888%8%***X%88x                        .Ex-Intern: ............. Physics Wallah
+               ;@8@@8%%##x-;~-+=X%8@`                       .Since: ................. Jan 2025
+               .x@8**XX#X;~X*XX*x*@*
+                :#*-+==-+~~=-++++X#=,                       .Proj: .................. Discrete Diffusion LM
+                ,+x+;:;-=--x+;::-Xx-;                       .Proj: .................. Seedite, 200+ users
+                 ;=x~+==xxx==xx+=X+;.                       .Proj: .................. MergeFlow
+                  '=x+xX-;:~+X==xX;.                        .Proj: .................. HHL Quantum (Qiskit)
+                   :x=+++---++=xXx-:``.
+               .'',,;XXXx=+=xXX**;,,`'`'                    .Stack: ................. PyTorch, Next.js, Node
+             .''''',-==*#%%%%#X==-.`,''`                    .Tools: ................. GitHub Actions, AWS
+            '`''':~=X+~-++++++--=,'`,'`:'..                 .Content: ............... YouTube, 250K+ views
+            ``'':::+-+-~-~;;~--=:'``'`:,`````''.
+          ..,,`','':;---~~----+:'''',:,''''````,``.         - Contact ------------------------
+       .''``',,`'''.`;~;;;;;;;`.``::,`''''```````,,'        .GitHub: ................ ritikraj2425
+     '``''''''`,,``'''`,,,,,``:~::`''''``''```````,:'       .LinkedIn: .............. ritik-raj-0a098228a
+    '`''`'''''''`,,:,:-,``'',`=+''''''``''````````,,:'      .Email: ................. rajritik2425
+   '``''''''''''''''``+-```'`'=;'`''''``'''````````,::.                    @gmail.com
+  ',```''`'''''`'''''.:=''''`'=~'````````'````````,,:,,
+  ,,```'``'''''`'''''',x`'```'-+'````````'````,``,,,:,,'    - Hackathons ---------------------
+ ',,``````''''``''''''`x,''``';x'````````````,,,,,`::,,:    .2024: .................. Hacktoberfest
+ ,,,,,,,``''''``''''''`X,`````:x`````````````,,,,`,:,,,:'   .2024: .................. Tech-Sangam
+',`,:,,,,```''```'``'',X```````X:'```````````,::`,::,,,,,   .2024: .................. Re-Imagine
+```
+
+<br>
+
 ### Architecture & Production
 
 <table>
@@ -81,7 +113,7 @@
 <br>
 
 <div align="center">
-  <a href="https://in.linkedin.com/in/ritik-raj-0a098228a">LinkedIn</a> • 
-  <a href="https://www.youtube.com/@ritikraj_2425">YouTube</a> • 
+  <a href="https://in.linkedin.com/in/ritik-raj-0a098228a">LinkedIn</a> •
+  <a href="https://www.youtube.com/@ritikraj_2425">YouTube</a> •
   <a href="mailto:rajritik2425@gmail.com">Email</a>
 </div>
