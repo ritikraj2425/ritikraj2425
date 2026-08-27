@@ -98,11 +98,28 @@
 ### Open Source Footprint
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikraj2425&theme=transparent&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&sideLabels=8b949e&dates=8b949e"  alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikraj2425&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&bg_color=00000000" alt="Top Languages" width="48%" />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=ritikraj2425&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=ffffff&bg_color=00000000"
+    alt="GitHub Stats"
+    width="48%"
+  />
+
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ritikraj2425&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&bg_color=00000000"
+    alt="Top Languages"
+    width="48%"
+  />
 </div>
 
 <br>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=ritikraj2425&theme=transparent&hide_border=true"
+    alt="GitHub Streak"
+    width="70%"
+  />
+</div>
 
 ### Timeline
 
